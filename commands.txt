@@ -2,3 +2,5 @@
 git log
 
 git log --oneline
+
+git log -p 
