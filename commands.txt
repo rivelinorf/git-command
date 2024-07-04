@@ -4,3 +4,7 @@ git log
 git log --oneline
 
 git log -p 
+
+git log --graph
+
+git log --format="%H %an"
