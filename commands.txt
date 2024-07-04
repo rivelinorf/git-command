@@ -8,3 +8,5 @@ git log -p
 git log --graph
 
 git log --format="%H %an"
+
+git log --help
